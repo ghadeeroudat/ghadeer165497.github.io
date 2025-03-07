@@ -19,8 +19,8 @@
         <h1>Ghadeer Al-Oudat</h1>
         <h2>Major: [Cyber Security]</h2>
         <h2>ID : 165497 </h2>
-             <h4>GPA : 2.53 </h4>
-        <p>Soft Skills: Communication, Teamwork, CTF, Adaptability & Flexibility </p>
+             <p>GPA:2.51 </p>
+        <p>Soft Skills: Communication, Teamwork, CTF </p>
     </header>
     <img src="fb11.jpg" alt="Your Photo">
     <h3>Favorite Programming Languages</h3>
@@ -29,8 +29,7 @@
         <tr><td>Python</td><td><a href="https://www.python.org/" target="_blank">Learn More</a></td></tr>
     </table>
     <footer>
-        <p>Contact me: <a href="mailto:gaodat22@cit.just.edu.jo" style="color: #ffcc00;">gaodat22@cit.just.edu.jo</a></p>
+        <p>Contact me: <a href="mailto:gaodat22@cit.just.edu.jo" style="color: #ffcc00;">Click</a></p>
     </footer>
 </body>
 </html>
- 
